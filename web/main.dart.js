@@ -66354,7 +66354,7 @@ h=d.id
 g=A.ce(A.fQ(B.j,B.Ad,h,new A.a92(d),c,"4 ou 5 Taroters?"),i)
 f=A.ce(A.fQ(B.j,B.Af,h,d.ga3R(),c,"Coller les  noms des 4/5 Joueurs\ns\xe9par\xe9s par des espaces"),i)
 e=!d.as&&!d.d
-e=A.ce(A.fQ(B.j,B.Ab,h,new A.a93(d),c,"Aide pour Compter (V3105-03) "),e)
+e=A.ce(A.fQ(B.j,B.Ab,h,new A.a93(d),c,"Aide pour Compter (V0601-01) "),e)
 return A.dp(A.a([s,r,q,p,o,n,m,l,k,j,g,f,e,A.ce(A.fQ(B.j,B.Ag,h,new A.a94(d),c,"Quizz "),!1),A.ce(A.fQ(c,A.Vt(B.zZ,c),c,new A.a95(d),c,c),i)],t.E),B.P,B.ah,B.Q)},
 i2(a){var s,r,q,p,o
 this.aM(12)
@@ -69356,7 +69356,7 @@ B.iu=new A.aP(1/0,1/0,1/0,1/0)
 B.wg=new A.aP(0,1/0,48,48)
 B.ch=new A.aP(0,1/0,0,1/0)
 B.wh=new A.aP(48,1/0,48,1/0)
-B.wi=new A.AG(2,"cover")
+B.wi=new A.AG(0,"fill")
 B.wj=new A.AG(6,"scaleDown")
 B.iv=new A.AH(0,"tight")
 B.iw=new A.AH(5,"strut")
